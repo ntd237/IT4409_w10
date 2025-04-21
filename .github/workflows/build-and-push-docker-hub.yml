@@ -2,7 +2,8 @@ name: Build, Push, Ssh, Pull, Down, Up
 
 on: [push]
 
-# comment 00
+# comment 0
+
 jobs:
   build-and-push:
     name: Build
